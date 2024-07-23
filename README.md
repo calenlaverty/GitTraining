@@ -1,1 +1,2 @@
 # GitTraining
+Updated read me
